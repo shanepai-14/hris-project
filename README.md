@@ -1,7 +1,7 @@
 # HRIS (Human Resources Information System)
 
-![HRIS Logo](assets\imgs\hris-login.png)
-![HRIS System](assets\imgs\hris-dashboard.png)
+![HRIS Logo](assets/imgs/hris-login.png)
+![HRIS System](assets/imgs/hris-dashboard.png)
 
 ## Overview
 
